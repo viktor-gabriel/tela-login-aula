@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Aluno",
+        "email":"aluno@senai.com.br",
+        "password": "aluno"
+    },
+
+    {
+        "name": "Renan",
+        "email":"renan@senai.com.br",
+        "password": "aluno"
+    },
+]
